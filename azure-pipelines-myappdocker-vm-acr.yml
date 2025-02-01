@@ -8,7 +8,7 @@ variables:
   IMAGE_NAME: 'myappdevops2'  # Se debe colocar el Nombre de la imagen que será descargada desde ACR
   ACR_NAME: 'myappdevops2'
   ACR_USERNAME: 'myappdevops2'  
-  ACR_PASSWORD: ''
+  ACR_PASSWORD: 'VEUqrBkOc6ixNu+ndmeaMEy4/sRBU0XIg3l94+JNlA+ACRCc1IJg'
 
 stages:
   - stage: Deploy
